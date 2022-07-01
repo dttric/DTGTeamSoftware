@@ -1,4 +1,5 @@
-# DTGTeam-Server
-# this is my programs repo
-# configurated in git (windows)
-# just look at that goodbye
+# DTGTeamSoftware
+# disclaimer its not my programs repo
+this is other programs recomended by me
+and my english is shit
+just look at that and goodbye
